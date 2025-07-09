@@ -58,25 +58,10 @@ This project is a Cisco Packet Tracer simulation that connects two Local Area Ne
 
 ---
 
-## 🧠 Learning Outcomes
-
-- Understand inter-network routing across LANs and WAN
-- Learn the difference between static and dynamic routing
-- Practice interface configuration and subnet planning
-- Understand serial and Ethernet cabling standards
-
----
-
 ## 📌 Notes
 
 - WAN IP configuration between routers is based on `192.168.20.0/24`.
 - Static and dynamic routing files are configured separately to show routing behavior.
 - Project can be extended to include ACLs, NAT, or VLANs for advanced simulation.
-
----
-
-## 🧑‍💻 Author
-
-> This project was developed as a hands-on simulation to demonstrate how two LANs can communicate over a WAN using Cisco Packet Tracer.
 
 ---
